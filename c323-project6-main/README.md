@@ -32,8 +32,8 @@ Converted with [CloudConvert](https://cloudconvert.com/mp4-to-gif)
 ## Notes
 
 - Had lots of trouble getting the database to work properly - ended up getting it to work with some modifications.
-- Partners: Grayson Clark, Pascal Koj
-- I collaborated on the project and was unable to add my name until later and hope this is not an issue
+- collaborated with Grayson Clark
+- I collaborated on the project and was unable to add until later and hope this is not an issue, had issues adding to github as well
 
 ## License
 
